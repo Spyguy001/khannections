@@ -1,0 +1,23 @@
+{
+  "name": "khannections",
+  "version": "1.0.0",
+  "description": "Facebook chatbot for reminding people to talk to their friends every so often",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spyguy001/khannections.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spyguy001/khannections/issues"
+  },
+  "homepage": "https://github.com/Spyguy001/khannections#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4"
+  }
+}
